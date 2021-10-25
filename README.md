@@ -1,5 +1,7 @@
 # Game-backend
 
+I use aiohttp because it is more clear to me.
+
 ## Technology stack:
 - Python 3.8.5
 - Aiohttp 3.7.4
